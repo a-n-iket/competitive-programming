@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/ani-ket/DS_Lab'
+let g:netrw_dirhist_5='/home/ani-ket/contests/codechef/starters60'
+let g:netrw_dirhist_4='/home/ani-ket/contests/codeforces/round825'
+let g:netrw_dirhist_3='/etc/gdm3'
+let g:netrw_dirhist_2='/home/ani-ket/DS'
+let g:netrw_dirhist_1='/home/ani-ket'
+let g:netrw_dirhist_0='/home/ani-ket/cses'
+let g:netrw_dirhist_9='/home/ani-ket'
+let g:netrw_dirhist_8='/home/ani-ket/cses'
+let g:netrw_dirhist_7='/home/ani-ket'
